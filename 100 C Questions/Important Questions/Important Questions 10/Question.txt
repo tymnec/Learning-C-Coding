@@ -1,0 +1,2 @@
+Write a program to check if the user is adult or not.
+If user's age is greater than 18 : Adult otherwise, Not Adult.

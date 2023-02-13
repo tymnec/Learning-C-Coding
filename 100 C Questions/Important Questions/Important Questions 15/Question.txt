@@ -1,0 +1,5 @@
+Write a program to print the sum of first n natural numbers 
+
+Get n from the user
+
+Additionaly, print them in reverse order.

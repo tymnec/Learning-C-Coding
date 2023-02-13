@@ -1,0 +1,1 @@
+Write a program to Using the library functions to calculate the square of number given by user.

@@ -1,0 +1,17 @@
+Will this code:
+
+int x = 2;
+
+if x = 1 {
+    printf("x is equal to 1");
+} else {
+    printf("x is not equal to 1");
+}
+
+
+
+
+
+
+Answer: This program will return x is equal to 1 
+Think? Why?

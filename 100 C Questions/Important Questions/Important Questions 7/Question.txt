@@ -1,0 +1,6 @@
+Are the following valid or not?
+
+1. int a = 8^8
+2. int x; int y = x;
+3. int x, y = x;
+4. char stars = '**';

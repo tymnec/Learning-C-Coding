@@ -1,0 +1,2 @@
+Write a program to calculate area of circle.
+(Radius of circle is given which is 5)

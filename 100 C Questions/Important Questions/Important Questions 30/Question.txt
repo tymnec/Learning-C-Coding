@@ -1,0 +1,1 @@
+Write a function to calculate sum of fires n natural numbers

@@ -1,0 +1,1 @@
+Write a program to print the table of the number entered by the user.
